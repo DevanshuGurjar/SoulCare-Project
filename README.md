@@ -89,6 +89,6 @@ UI Usability Satisfaction	92% rated Excellent/Good
 This project is intended for academic and research purposes. For reuse or deployment in production environments, contact the authors.
 
 👨‍💻 Developed By
-Pushp Choudhary
+Devanshu
 Department of Computer Science, NIET, Greater Noida
 
